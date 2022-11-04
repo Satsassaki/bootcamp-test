@@ -1,0 +1,15 @@
+{
+    "company": "Via varejo",
+    "status": "Ativo",
+    "location": "Santo André",
+    "website": "https://conexaoqa.herokuapp.com",
+    "skills": "QA",
+    "bio": "string",
+    "githubusername": "luciaSS",
+    "youtube": "lucinhaSS",
+    "twitter": "string",
+    "facebook": "string",
+    "linkedin": "string",
+    "instagram": "string",
+    "medium": "string"
+}
